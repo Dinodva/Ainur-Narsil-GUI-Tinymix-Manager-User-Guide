@@ -38,3 +38,9 @@ There are few Tinymix Manager controls which are useful for video recording. To 
 Open app and left window search for desired controls you want to change. Once you found them add them to favorites, so that you can latter easy access and change them. Generally to speak, all recording related staff is TX, all playback related staff is RX, Headphone related staff, search for hph, volume search for volume and so on. I wouldn't recommend to change too many values, besides mentioned above, since it may temporally corrupt your device integrated audio performance. But then you can simply reboot and all changes would disappear.
 ## Tinymix Manager for Developers:
 Using Tinymix we can check values we want to change into mixer path, without need for each time pasting it into vendor. Also we can use Tinymix to see how different audio Magisk modules have changed our device audio configuration in real time.
+## Links: 
+[Ainur Narsil](https://github.com/Magisk-Modules-Repo/ainur_narsil)
+[Tinymix Manager Apk](https://github.com/Dinodva/Tinymix-Manager-Apk)
+[Tinymix Manager Apk Mod](https://github.com/Dinodva/Tinymix-Manager-Apk-Mod-)
+[Tinymix Binary Installer Magisk Module](https://github.com/Dinodva/Tinymix-Binary-Installer-Magisk-Module)
+[Tinymix Manager Installer Magisk Module](https://github.com/Dinodva/Tinymix-Manager-Magisk-Module)
